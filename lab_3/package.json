@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@googlemaps/js-api-loader": "^1.16.2",
+    "parcel": "^2.11.0",
+    "typescript": "^5.3.3"
+  },
+  "name": "ts_map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/google.maps": "^3.54.10",
+    "buffer": "^6.0.3"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
